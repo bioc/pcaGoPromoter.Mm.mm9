@@ -1,8 +1,8 @@
 Package: pcaGoPromoter.Mm.mm9
-Version: 1.8.0
+Version: 1.8.1
 Date: 2011-12-07
 Title: pcaGoPromoter.Mm.mm9 is a data package used by pcaGoPromoter
-Author: Morten Hansen, <mhansen@sund.ku.dk>
+Author: Morten Hansen <mhansen@sund.ku.dk>
 Maintainer: Morten Hansen, <mhansen@sund.ku.dk>
 Description: Contains the data for transciption factors analysis of organism Mus musculus with package pcaGoPromoter
 biocViews: Mus_musculus_Data
