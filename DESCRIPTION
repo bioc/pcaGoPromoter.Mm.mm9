@@ -1,5 +1,5 @@
 Package: pcaGoPromoter.Mm.mm9
-Version: 1.25.0
+Version: 1.25.1
 Date: 2011-12-07
 Title: pcaGoPromoter.Mm.mm9 is a data package used by pcaGoPromoter
 Author: Morten Hansen, <mhansen@sund.ku.dk>
@@ -9,3 +9,4 @@ biocViews: Mus_musculus_Data
 LazyLoad: yes
 License: GPL (>= 2)
 Packaged: 2011-12-07 21:34:39 UTC; morten
+PackageStatus: Deprecated
